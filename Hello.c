@@ -27,3 +27,4 @@ int checkin(const char *name)
     printf("%s are checked in\n", name);
     return 0;
 }
+}

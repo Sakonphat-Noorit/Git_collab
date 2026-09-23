@@ -21,6 +21,7 @@ int farewell(const char *name)
     return 0;
 }
 
+// Print a check in message for the specified user
 int checkin(const char *name)
 {
     printf("%s are checked in\n", name);
